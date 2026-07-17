@@ -1,4 +1,3 @@
-"""
 diagnose_pwdump.py
 
 Checks a secretsdump/DCSync/pwdump-format hash file for the issues that
@@ -17,4 +16,3 @@ credential material.
 
 Usage:
     python3 diagnose_pwdump.py yourfile.txt
-"""
